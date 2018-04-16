@@ -2,228 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf04ea73-d5e3-4853-b03e-cec2ff258bdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/classes/logback-spring.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/classes/org/springframework/samples/petclinic/admin/SpringBootAdminApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/spring-petclinic-admin-server-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server/target/spring-petclinic-admin-server-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/.wro4j/buildContext.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/logback-spring.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/messages/messages.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/messages/messages_de.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/messages/messages_en.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/ApiGatewayApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/CustomersServiceClient.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/OwnerDetails.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/PetDetails.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/PetType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/VisitDetails.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/VisitsServiceClient$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/application/VisitsServiceClient.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/org/springframework/samples/petclinic/api/infrastructure/config/WebConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/css/petclinic.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/montserrat-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/montserrat-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/montserrat-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/montserrat-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/varela_round-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/varela_round-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/varela_round-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/fonts/varela_round-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/favicon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/pets.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/platform-bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/spring-logo-dataflow-mobile.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/spring-logo-dataflow.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/images/spring-pivotal-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/fragments/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/fragments/nav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/fragments/welcome.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-details/owner-details.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-details/owner-details.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-details/owner-details.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-details/owner-details.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-form/owner-form.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-form/owner-form.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-form/owner-form.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-form/owner-form.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-list/owner-list.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-list/owner-list.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-list/owner-list.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/owner-list/owner-list.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/pet-form/pet-form.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/pet-form/pet-form.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/pet-form/pet-form.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/pet-form/pet-form.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/vet-list/vet-list.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/vet-list/vet-list.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/vet-list/vet-list.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/vet-list/vet-list.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/visits/visits.component.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/visits/visits.controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/visits/visits.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/classes/static/scripts/visits/visits.template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/spring-petclinic-api-gateway-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/spring-petclinic-api-gateway-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/surefire-reports/TEST-org.springframework.samples.petclinic.api.ApiGatewayApplicationTests.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/surefire-reports/org.springframework.samples.petclinic.api.ApiGatewayApplicationTests.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/test-classes/bootstrap-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/target/test-classes/org/springframework/samples/petclinic/api/ApiGatewayApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/classes/org/springframework/samples/petclinic/config/ConfigServerApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/spring-petclinic-config-server-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/spring-petclinic-config-server-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/surefire-reports/TEST-org.springframework.samples.petclinic.config.PetclinicConfigServerApplicationTests.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/surefire-reports/org.springframework.samples.petclinic.config.PetclinicConfigServerApplicationTests.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server/target/test-classes/org/springframework/samples/petclinic/config/PetclinicConfigServerApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/db/hsqldb/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/db/hsqldb/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/db/mysql/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/db/mysql/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/logback-spring.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/CustomersServiceApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/model/Owner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/model/OwnerRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/model/Pet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/model/PetRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/model/PetType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/web/OwnerResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/web/PetDetails.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/web/PetRequest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/classes/org/springframework/samples/petclinic/customers/web/PetResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/spring-petclinic-customers-service-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/spring-petclinic-customers-service-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/surefire-reports/TEST-org.springframework.samples.petclinic.customers.web.PetResourceDatabaseTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/surefire-reports/TEST-org.springframework.samples.petclinic.customers.web.PetResourceTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/surefire-reports/org.springframework.samples.petclinic.customers.web.PetResourceDatabaseTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/surefire-reports/org.springframework.samples.petclinic.customers.web.PetResourceTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/test-classes/application-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/test-classes/bootstrap-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/test-classes/org/springframework/samples/petclinic/customers/web/PetResourceDatabaseTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/target/test-classes/org/springframework/samples/petclinic/customers/web/PetResourceTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/classes/org/springframework/samples/petclinic/discovery/DiscoveryServerApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/spring-petclinic-discovery-server-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/spring-petclinic-discovery-server-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/surefire-reports/TEST-org.springframework.samples.petclinic.discovery.DiscoveryServerApplicationTests.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/surefire-reports/org.springframework.samples.petclinic.discovery.DiscoveryServerApplicationTests.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server/target/test-classes/org/springframework/samples/petclinic/discovery/DiscoveryServerApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/classes/org/springframework/samples/petclinic/monitoring/CallMonitoringAspect.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/classes/org/springframework/samples/petclinic/monitoring/Monitored.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/classes/org/springframework/samples/petclinic/monitoring/MonitoringConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring/target/spring-petclinic-monitoring-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/classes/org/springframework/samples/petclinic/tracing/ZipkinServer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/spring-petclinic-tracing-server-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server/target/spring-petclinic-tracing-server-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/META-INF/spring-configuration-metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/db/hsqldb/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/db/hsqldb/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/db/mysql/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/db/mysql/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/logback-spring.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/VetsServiceApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/model/Specialty.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/model/Vet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/model/VetRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/system/CacheConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/system/VetsProperties$Cache.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/system/VetsProperties.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/classes/org/springframework/samples/petclinic/vets/web/VetResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/spring-petclinic-vets-service-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/spring-petclinic-vets-service-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/surefire-reports/TEST-org.springframework.samples.petclinic.vets.web.VetResourceDatabaseTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/surefire-reports/TEST-org.springframework.samples.petclinic.vets.web.VetResourceTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/surefire-reports/org.springframework.samples.petclinic.vets.web.VetResourceDatabaseTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/surefire-reports/org.springframework.samples.petclinic.vets.web.VetResourceTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/test-classes/application-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/test-classes/bootstrap-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/test-classes/org/springframework/samples/petclinic/vets/web/VetResourceDatabaseTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service/target/test-classes/org/springframework/samples/petclinic/vets/web/VetResourceTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/META-INF/build-info.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/bootstrap.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/db/hsqldb/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/db/hsqldb/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/db/mysql/data.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/db/mysql/schema.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/git.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/logback-spring.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/org/springframework/samples/petclinic/visits/VisitsServiceApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/org/springframework/samples/petclinic/visits/model/Visit.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/org/springframework/samples/petclinic/visits/model/VisitRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/classes/org/springframework/samples/petclinic/visits/web/VisitResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/spring-petclinic-visits-service-1.5.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/spring-petclinic-visits-service-1.5.9.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/surefire-reports/TEST-org.springframework.samples.petclinic.visits.VisitResourceDatabaseTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/surefire-reports/org.springframework.samples.petclinic.visits.VisitResourceDatabaseTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/test-classes/application-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/test-classes/bootstrap-test.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service/target/test-classes/org/springframework/samples/petclinic/visits/VisitResourceDatabaseTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (1).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (2).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (3).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (4).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (5).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (6).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (7).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (8).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/maven-archiver (9).iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-admin-server.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-config-server.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-discovery-server.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-microservices.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-monitoring.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-tracing-server.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-vets-service.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-visits-service.iml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-petclinic-tracing-server/target/" />
@@ -243,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-petclinic-vets-service/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -257,8 +55,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -323,7 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,8 +134,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -520,46 +318,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523881555895</updated>
-      <workItem from="1523881557118" duration="279000" />
+      <workItem from="1523881557118" duration="511000" />
+      <workItem from="1523882081140" duration="2000" />
+      <workItem from="1523882143061" duration="6000" />
+      <workItem from="1523882395626" duration="307000" />
     </task>
+    <task id="LOCAL-00001" summary="清除生成文件">
+      <created>1523881863692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523881863692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279000" />
+    <option name="totallyTimeSpent" value="826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,6 +376,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="清除生成文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="清除生成文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -585,6 +398,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-vets-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-vets-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-vets-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
