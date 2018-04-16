@@ -1,0 +1,10 @@
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\CustomersServiceApplication.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\model\Owner.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\model\Pet.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\model\PetType.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\web\OwnerResource.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\web\PetResource.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\model\OwnerRepository.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\web\PetDetails.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\model\PetRepository.java
+C:\project\springcloud\spring-petclinic-microservices\spring-petclinic-customers-service\src\main\java\org\springframework\samples\petclinic\customers\web\PetRequest.java

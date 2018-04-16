@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (9)" />
+        <module name="spring-petclinic-admin-server" />
+        <module name="spring-petclinic-api-gateway" />
+        <module name="spring-petclinic-config-server" />
+        <module name="spring-petclinic-customers-service" />
+        <module name="spring-petclinic-discovery-server" />
+        <module name="spring-petclinic-monitoring" />
+        <module name="spring-petclinic-tracing-server" />
+        <module name="spring-petclinic-vets-service" />
+        <module name="spring-petclinic-visits-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="maven-archiver (4)" target="1.5" />
+      <module name="maven-archiver (5)" target="1.5" />
+      <module name="maven-archiver (6)" target="1.5" />
+      <module name="maven-archiver (7)" target="1.5" />
+      <module name="maven-archiver (8)" target="1.5" />
+      <module name="maven-archiver (9)" target="1.5" />
+      <module name="spring-petclinic-admin-server" target="1.8" />
+      <module name="spring-petclinic-api-gateway" target="1.8" />
+      <module name="spring-petclinic-config-server" target="1.8" />
+      <module name="spring-petclinic-customers-service" target="1.8" />
+      <module name="spring-petclinic-discovery-server" target="1.8" />
+      <module name="spring-petclinic-microservices" target="1.8" />
+      <module name="spring-petclinic-monitoring" target="1.8" />
+      <module name="spring-petclinic-tracing-server" target="1.8" />
+      <module name="spring-petclinic-vets-service" target="1.8" />
+      <module name="spring-petclinic-visits-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
