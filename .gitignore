@@ -1,0 +1,17 @@
+# Ant
+local.properties
+
+# Maven
+target/
+release.properties
+
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# gitignore
+.gitignore
