@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-petclinic-admin-server.iml" filepath="$PROJECT_DIR$/spring-petclinic-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-petclinic-api-gateway.iml" filepath="$PROJECT_DIR$/spring-petclinic-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-petclinic-common.iml" filepath="$PROJECT_DIR$/spring-petclinic-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-petclinic-config-server.iml" filepath="$PROJECT_DIR$/spring-petclinic-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-petclinic-customers-service.iml" filepath="$PROJECT_DIR$/spring-petclinic-customers-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-petclinic-discovery-server.iml" filepath="$PROJECT_DIR$/spring-petclinic-discovery-server.iml" />

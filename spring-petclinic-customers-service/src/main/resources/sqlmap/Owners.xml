@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- owners表:cloud split mysql模块 -->
+<mapper namespace="ronjony.com.dal.dao.master.OwnersDao">
+    
+    <!--基本的sql查询字段 公共引用...-->
+    <sql id="queryFields">
+id,first_name,last_name,address,city,telephone 
+    </sql>
+    
+    <!-- 基本的sql查询条件公共引用 -->
+    <sql id="commonCondition">
+    	WHERE
+        <if test="id !=null">
+             id  = #{id,jdbcType=INTEGER}
+        </if>
+        <if test="firstName != null and firstName != ''">
+            AND first_name = #{firstName,jdbcType=VARCHAR}
+        </if>
+        <if test="lastName != null and lastName != ''">
+            AND last_name = #{lastName,jdbcType=VARCHAR}
+        </if>
+        <if test="address != null and address != ''">
+            AND address = #{address,jdbcType=VARCHAR}
+        </if>
+        <if test="city != null and city != ''">
+            AND city = #{city,jdbcType=VARCHAR}
+        </if>
+        <if test="telephone != null and telephone != ''">
+            AND telephone = #{telephone,jdbcType=VARCHAR}
+        </if>
+    </sql>
+
+    
+    <insert id="saveRecord" parameterType="OwnersDo" keyProperty="id">
+    	<selectKey resultType="java.lang.Long" keyProperty="id" order="AFTER" >
+	      SELECT LAST_INSERT_ID()
+	    </selectKey>
+    
+        INSERT INTO owners
+        <trim prefix="(" suffix=")" suffixOverrides="," >
+	        <if test="firstName != null">        
+	            first_name,
+	        </if>
+	        <if test="lastName != null">        
+	            last_name,
+	        </if>
+	        <if test="address != null">        
+	            address,
+	        </if>
+	        <if test="city != null">        
+	            city,
+	        </if>
+	        <if test="telephone != null">        
+	            telephone,
+	        </if>
+        </trim>
+        
+        <trim prefix="values (" suffix=")" suffixOverrides="," >
+		    <if test="firstName != null" >
+		       #{firstName,jdbcType=VARCHAR},
+		    </if>
+		    <if test="lastName != null" >
+		       #{lastName,jdbcType=VARCHAR},
+		    </if>
+		    <if test="address != null" >
+		       #{address,jdbcType=VARCHAR},
+		    </if>
+		    <if test="city != null" >
+		       #{city,jdbcType=VARCHAR},
+		    </if>
+		    <if test="telephone != null" >
+		       #{telephone,jdbcType=VARCHAR},
+		    </if>
+        </trim>
+    </insert>
+    
+    <update id="updateById"  parameterType="OwnersDo">
+        UPDATE owners
+          <set>
+            <if test="firstName != null and firstName != '' ">        
+                first_name = #{firstName,jdbcType=VARCHAR},                
+            </if>
+            <if test="lastName != null and lastName != '' ">        
+                last_name = #{lastName,jdbcType=VARCHAR},                
+            </if>
+            <if test="address != null and address != '' ">        
+                address = #{address,jdbcType=VARCHAR},                
+            </if>
+            <if test="city != null and city != '' ">        
+                city = #{city,jdbcType=VARCHAR},                
+            </if>
+            <if test="telephone != null and telephone != '' ">        
+                telephone = #{telephone,jdbcType=VARCHAR}                
+            </if>
+        </set>    
+        WHERE id = #{id ,jdbcType=BIGINT}
+    </update>
+
+	<select id="getById" resultType="OwnersDo">
+        SELECT
+        <include refid="queryFields" />
+        FROM owners
+        WHERE id=#{id ,jdbcType=BIGINT}
+        LIMIT 0,1
+    </select>
+
+	<select id="getByCommonCondition" resultType="OwnersDo" parameterType="OwnersDo">
+        SELECT
+        <include refid="queryFields" />
+        FROM owners
+        <include refid="commonCondition"/> 
+        limit 0,1
+    </select>
+               
+    <select id="getListByCommonCondition" resultType="OwnersDo" parameterType="OwnersDo">
+        SELECT
+        <include refid="queryFields" />
+        FROM owners
+        <include refid="commonCondition"/>
+    </select>
+    
+</mapper>

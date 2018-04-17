@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<settings>
+		<setting name="mapUnderscoreToCamelCase" value="true" />
+	</settings>
+
+	<typeAliases>
+
+		<package name="ronjony.com.domain"/>
+		<package name="ronjony.com.dal.query"/>
+		<package name="ronjony.com.domain.dto"/>
+		<package name="ronjony.com.domain.web"/>
+		<package name="ronjony.com.dao"/>
+
+	</typeAliases>
+
+	<!--<plugins>-->
+		<!--<plugin interceptor="com.ald.fanbei.api.common.page.PageInterceptor">-->
+			<!--<property name="databaseType" value="Mysql" />-->
+		<!--</plugin>-->
+	<!--</plugins>-->
+
+	<mappers>
+	</mappers>
+</configuration>

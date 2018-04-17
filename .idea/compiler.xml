@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-petclinic-admin-server" />
         <module name="spring-petclinic-api-gateway" />
+        <module name="spring-petclinic-common" />
         <module name="spring-petclinic-config-server" />
         <module name="spring-petclinic-customers-service" />
         <module name="spring-petclinic-discovery-server" />
@@ -20,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="spring-petclinic-admin-server" target="1.8" />
       <module name="spring-petclinic-api-gateway" target="1.8" />
+      <module name="spring-petclinic-common" target="1.8" />
+      <module name="spring-petclinic-common (1) (org.springframework.samples.petclinic.client)" target="1.7" />
       <module name="spring-petclinic-config-server" target="1.8" />
       <module name="spring-petclinic-customers-service" target="1.8" />
       <module name="spring-petclinic-discovery-server" target="1.8" />
