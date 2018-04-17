@@ -18,15 +18,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maven-archiver (1)" target="1.5" />
-      <module name="maven-archiver (2)" target="1.5" />
-      <module name="maven-archiver (3)" target="1.5" />
-      <module name="maven-archiver (4)" target="1.5" />
-      <module name="maven-archiver (5)" target="1.5" />
-      <module name="maven-archiver (6)" target="1.5" />
-      <module name="maven-archiver (7)" target="1.5" />
-      <module name="maven-archiver (8)" target="1.5" />
-      <module name="maven-archiver (9)" target="1.5" />
       <module name="spring-petclinic-admin-server" target="1.8" />
       <module name="spring-petclinic-api-gateway" target="1.8" />
       <module name="spring-petclinic-config-server" target="1.8" />
