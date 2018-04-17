@@ -15,3 +15,10 @@
 * 将微信平台的相关服务封装于期中
 * 后期添加website功能
 * 后期支持配套android功能
+
+
+操作：
+* ssh key方式，通过命令行操作
+* git add .
+* git commit -m "desc"
+* git push origin master
