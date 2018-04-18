@@ -19,6 +19,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
+import ronjony.com.common.domain.customer.OwnersDo;
+
+import java.util.List;
 
 /**
  * @author Maciej Szarlinski
@@ -31,5 +34,8 @@ public class CustomersServiceClient {
 
     public OwnerDetails getOwner(final int ownerId) {
         return loadBalancedRestTemplate.getForObject("http://customers-service/owners/{ownerId}", OwnerDetails.class, ownerId);
+    }
+    public OwnersDo getOwnerList() {
+        return loadBalancedRestTemplate.getForObject("http://customers-service/api/getOwnersBy",OwnersDo.class);
     }
 }

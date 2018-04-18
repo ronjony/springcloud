@@ -24,6 +24,7 @@ import org.springframework.samples.petclinic.api.application.VisitsServiceClient
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
+import ronjony.com.common.domain.customer.OwnersDo;
 
 import java.util.List;
 import java.util.Map;
@@ -53,4 +54,12 @@ public class ApiGatewayController {
         owner.getPets().forEach(pet ->
             pet.getVisits().addAll(Optional.ofNullable(visitsMapping.get(pet.getId())).orElse(emptyList())));
     }
+
+    @GetMapping(value = "owner")
+    public OwnersDo getOwnerList() {
+         OwnersDo ownersDo = customersServiceClient.getOwnerList();
+         return ownersDo;
+    }
+
+
 }

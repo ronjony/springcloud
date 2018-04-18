@@ -1,6 +1,6 @@
 package ronjony.com.service;
 
-import ronjony.com.domain.OwnersDo;
+import ronjony.com.common.domain.customer.OwnersDo;
 
 import java.util.List;
 

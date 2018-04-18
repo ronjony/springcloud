@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import ronjony.com.dao.OwnersDao;
-import ronjony.com.domain.OwnersDo;
+import ronjony.com.common.domain.customer.OwnersDo;
 import ronjony.com.service.OwnersService;
 
 import java.util.List;

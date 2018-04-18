@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
-import ronjony.com.domain.OwnersDo;
+import ronjony.com.common.domain.customer.OwnersDo;
 import ronjony.com.service.OwnersService;
 
 import java.util.List;
@@ -22,6 +22,7 @@ import java.util.List;
  * Copyright 本内容仅限于开源项目公司内部传阅，禁止外泄以及用于其他的商业目的
  */
 @RestController
+@RequestMapping(value = "/api", produces = "application/json;charset=UTF-8")
 public class OwnersController{
 
 
@@ -29,12 +30,17 @@ public class OwnersController{
 	private OwnersService ownersService;
 
     @ApiOperation(value="得到所有数据", notes="测试得到所有数据")
-    @ApiImplicitParams(value = {
-    })
     @RequestMapping( value ="/getAllAgingList",method = RequestMethod.POST)
     @ResponseBody
     public List<OwnersDo> getAllOwnersDos(){
         return ownersService.getAllOwners();
+    }
+
+    @ApiOperation(value="得到单条数据", notes="测试得到单条数据")
+    @RequestMapping( value ="/getOwnersBy",method = RequestMethod.GET)
+    @ResponseBody
+    public OwnersDo getOwnersByOne(){
+        return ownersService.getAllOwners().get(0);
     }
 
 }

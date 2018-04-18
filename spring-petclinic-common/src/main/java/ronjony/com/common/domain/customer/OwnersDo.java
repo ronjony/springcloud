@@ -1,4 +1,4 @@
-package ronjony.com.domain;
+package ronjony.com.common.domain.customer;
 
 
 import ronjony.com.common.utils.AbstractSerial;

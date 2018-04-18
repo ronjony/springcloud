@@ -10,7 +10,7 @@
     
     <!-- 基本的sql查询条件公共引用 -->
     <sql id="commonCondition">
-    	WHERE
+    	WHERE 0=0
     <#list list as column>
         <#if column.columnName == "id">
         <if test="id !=null">

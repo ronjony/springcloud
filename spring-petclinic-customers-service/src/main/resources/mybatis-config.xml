@@ -9,10 +9,10 @@
 
 	<typeAliases>
 
-		<package name="ronjony.com.domain"/>
+		<package name="ronjony.com.common.domain.customer"/>
 		<package name="ronjony.com.dal.query"/>
-		<package name="ronjony.com.domain.dto"/>
-		<package name="ronjony.com.domain.web"/>
+		<package name="ronjony.com.common.domain.customer.dto"/>
+		<package name="ronjony.com.common.domain.customer.web"/>
 		<package name="ronjony.com.dao"/>
 
 	</typeAliases>
