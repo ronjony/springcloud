@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33b0c20a-db66-4e08-8cb2-b05ecd09a391" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/kafka-design-cn.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/kafka-design-en.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/kafka-design-text.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/pic/kafka_log.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/pic/log_cleaner_anatomy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/pic/log_compaction.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/AESUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/PropertiesFileUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/RedisUtil.java" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java" afterPath="$PROJECT_DIR$/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java" afterPath="$PROJECT_DIR$/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/dbmapper.ftl" afterPath="$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/dbmapper.ftl" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/CustomersServiceApplication.java" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/CustomersServiceApplication.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/domain/OwnersDo.java" afterPath="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/domain/customer/OwnersDo.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/service/OwnersService.java" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/service/OwnersService.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/service/impl/OwnersServiceImpl.java" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/service/impl/OwnersServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/db/hsqldb/data.sql" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/hsqldb/data.sql" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/db/hsqldb/schema.sql" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/hsqldb/schema.sql" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/db/mysql/data.sql" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/mysql/data.sql" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/db/mysql/schema.sql" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/mysql/schema.sql" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/mybatis-config.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/sqlmap/Owners.xml" afterPath="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/sqlmap/Owners.xml" />
+      <change beforePath="$PROJECT_DIR$/schedule.md" afterPath="$PROJECT_DIR$/schedule.md" />
+      <change beforePath="$PROJECT_DIR$/spring-petclinic-common/pom.xml" afterPath="$PROJECT_DIR$/spring-petclinic-common/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-petclinic-customers-service/target/" />
     <ignored path="$PROJECT_DIR$/spring-petclinic-vets-service/target/" />
@@ -40,12 +36,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="schedule.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/schedule.md">
+      <file leaf-file-name="kafka-design-cn.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka/kafka-design-cn.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <first_editor relative-caret-position="435">
+                <caret line="385" column="0" lean-forward="true" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,94 +49,80 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Create.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/tool.code.generator/Create.java">
+      <file leaf-file-name="kafka-design-text.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka/kafka-design-text.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="262">
+                <caret line="162" column="3" lean-forward="false" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state relative-caret-position="266">
+              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MybatisGenerate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/tool.code.generator/MybatisGenerate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="159" column="71" lean-forward="false" selection-start-line="159" selection-start-column="63" selection-end-line="159" selection-end-column="71" />
-              <folding>
-                <marker date="1523956693555" expanded="true" signature="1935:1973" ph="SELECT TABLE... USER_ALL_TABLES" />
-              </folding>
+      <file leaf-file-name="kafka-design-en.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka/kafka-design-en.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="212">
+                <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbmapper.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/dbmapper.ftl">
+      <file leaf-file-name="OwnersController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="205">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="domain.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/domain.ftl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-311">
-              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FreeMarkers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/tool.code.generator/util/FreeMarkers.java">
+      <file leaf-file-name="CustomersServiceApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/CustomersServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/tool.code.generator/util/GenerateUtils.java">
+      <file leaf-file-name="OwnersDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1843">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Table.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/tool.code.generator/util/Table.java">
+      <file leaf-file-name="CustomerDataSourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/config/CustomerDataSourceConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-874">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="456">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#1094#1120#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,6 +148,9 @@
       <find>getAllAgingList</find>
       <find>RestTemplate</find>
       <find>domain</find>
+      <find>server.port</find>
+      <find>Log Compaction Basics</find>
+      <find>备份日志：Quorums, ISRs, 和状态机</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -185,7 +170,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/schedule.md" />
         <option value="$PROJECT_DIR$/spring-petclinic-common/spring-petclinic-common.iml" />
         <option value="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/CommonApplication.java" />
         <option value="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/spring/SpringUtil.java" />
@@ -201,7 +185,6 @@
         <option value="$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/serviceImpl.ftl" />
         <option value="$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/domain.ftl" />
         <option value="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java" />
-        <option value="$PROJECT_DIR$/spring-petclinic-common/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/service/impl/OwnersServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/domain/OwnersDo.java" />
@@ -222,6 +205,16 @@
         <option value="$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java" />
         <option value="$PROJECT_DIR$/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java" />
         <option value="$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/dbmapper.ftl" />
+        <option value="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/PropertiesFileUtil.java" />
+        <option value="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/AESUtil.java" />
+        <option value="$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/spring-petclinic-common/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule.md" />
+        <option value="$PROJECT_DIR$/kafka-design-en.md" />
+        <option value="$PROJECT_DIR$/kafka/kafka-design-en.md" />
+        <option value="$PROJECT_DIR$/kafka/kafka-design-cn.md" />
+        <option value="$PROJECT_DIR$/kafka/kafka-design-text.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -243,14 +236,14 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1924" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -312,51 +305,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-petclinic-customers-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-petclinic-vets-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-petclinic-vets-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-petclinic-vets-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-petclinic-vets-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-petclinic-customers-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-petclinic-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudcol" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-petclinic-vets-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vets" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,11 +353,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-petclinic-common" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\cloudcol\kafka" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ronjony.com.common.utils" />
       <recent name="ronjony.com.common.spring" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\cloudcol\kafka\pic" />
       <recent name="C:\project\cloudcol\spring-petclinic-customers-service\src\main\resources" />
       <recent name="C:\project\cloudcol\spring-petclinic-common" />
       <recent name="C:\project\cloudcol\spring-petclinic-common\src\main\java" />
@@ -590,12 +572,16 @@
       <updated>1523882904865</updated>
       <workItem from="1523882906105" duration="434000" />
       <workItem from="1523930289797" duration="23463000" />
-      <workItem from="1524016584074" duration="12205000" />
+      <workItem from="1524016584074" duration="17952000" />
+      <workItem from="1524377307793" duration="654000" />
+      <workItem from="1524550988463" duration="1580000" />
+      <workItem from="1524563856875" duration="1335000" />
+      <workItem from="1524622415331" duration="6746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36102000" />
+    <option name="totallyTimeSpent" value="52164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,11 +612,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33802816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33802816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08775731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -664,133 +650,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/org/springframework/samples/petclinic/customers/web/OwnerResource.java" />
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/test/java/org/springframework/samples/petclinic/customers/web/PetResourceDatabaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/test/java/org/springframework/samples/petclinic/customers/web/PetResourceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/mysql/schema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/dbtest/mysql/data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding>
-            <marker date="1516269151304" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1516269151304" expanded="false" signature="155:629" ph="..." />
-            <marker date="1516269151304" expanded="true" signature="972:1209" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="1235:1910" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="1987:2257" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="2285:2292" ph="{}" />
-            <marker date="1516269151304" expanded="false" signature="2329:2340" ph=" { " />
-            <marker date="1516269151304" expanded="false" signature="2357:2363" ph=" }" />
-            <marker date="1516269151304" expanded="false" signature="2397:2408" ph=" { " />
-            <marker date="1516269151304" expanded="false" signature="2435:2441" ph=" }" />
-            <marker date="1516269151304" expanded="true" signature="2474:2540" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="2571:2637" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="2673:2739" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="2803:3367" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="3438:3951" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="4027:4296" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="4334:4924" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="4519:4918" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="4965:5093" ph="{...}" />
-            <marker date="1516269151304" expanded="true" signature="5076:5087" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <marker date="1516269135885" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1516269135885" expanded="false" signature="162:2038" ph="..." />
-            <marker date="1516269135885" expanded="true" signature="2410:2417" ph="{}" />
-            <marker date="1516269135885" expanded="true" signature="2494:3419" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="3500:4056" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="4110:4257" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="4270:4660" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="4786:15235" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="4828:4839" ph="{}" />
-            <marker date="1516269135885" expanded="true" signature="4995:7041" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="7194:9617" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="9673:9688" ph=" { " />
-            <marker date="1516269135885" expanded="false" signature="9749:9759" ph=" }" />
-            <marker date="1516269135885" expanded="true" signature="9847:10439" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="10539:10653" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="10726:11022" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="11162:12865" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="13041:13494" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="13154:13279" ph="invoke(proxy, method, args) → {" />
-            <marker date="1516269135885" expanded="false" signature="13463:13482" ph="}" />
-            <marker date="1516269135885" expanded="true" signature="13642:15229" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="14861:15006" ph="intercept(obj, method, args, proxy) → {" />
-            <marker date="1516269135885" expanded="false" signature="15170:15189" ph="}" />
-            <marker date="1516269135885" expanded="true" signature="15373:16265" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="15427:15438" ph="{}" />
-            <marker date="1516269135885" expanded="true" signature="15550:15926" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="15983:16259" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="16359:18110" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="16482:16497" ph=" { " />
-            <marker date="1516269135885" expanded="false" signature="16528:16538" ph=" }" />
-            <marker date="1516269135885" expanded="true" signature="16619:17001" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="16671:16744" ph="end_class() → {" />
-            <marker date="1516269135885" expanded="false" signature="16903:16922" ph="}" />
-            <marker date="1516269135885" expanded="true" signature="17070:18104" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="18189:19168" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="18347:18597" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="18640:19065" ph="{...}" />
-            <marker date="1516269135885" expanded="false" signature="19111:19126" ph=" { " />
-            <marker date="1516269135885" expanded="false" signature="19152:19162" ph=" }" />
-            <marker date="1516269135885" expanded="true" signature="19229:19274" ph="{...}" />
-            <marker date="1516269135885" expanded="true" signature="19344:19351" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="317" column="9" lean-forward="true" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="469" column="0" lean-forward="false" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="47" column="37" lean-forward="false" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="42" column="46" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,14 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -870,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,15 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/config/CustomerDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -958,28 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/sqlmap/Owners.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1524028350831" expanded="true" signature="2406:3161" ph="UPDATE owners... " />
-            <marker date="1524028350831" expanded="true" signature="3230:3354" ph="SELECT FROM owners" />
-            <marker date="1524028350831" expanded="true" signature="3461:3588" ph="SELECT FROM owners" />
-            <marker date="1524028350831" expanded="true" signature="3702:3768" ph="SELECT FROM owners" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -987,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="125" column="56" lean-forward="true" selection-start-line="125" selection-start-column="56" selection-end-line="125" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,19 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/CustomersServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/client/RestOperations.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,20 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="135" column="17" lean-forward="false" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding>
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,22 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/domain.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1843">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-874">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,32 +887,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="159" column="71" lean-forward="false" selection-start-line="159" selection-start-column="63" selection-end-line="159" selection-end-column="71" />
-          <folding>
-            <marker date="1523956693555" expanded="true" signature="1935:1973" ph="SELECT TABLE... USER_ALL_TABLES" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-petclinic-common/generate/template/mysql/dbmapper.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding />
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-petclinic-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="1824">
+          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="335">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/AESUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/PropertiesFileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/resources/sqlmap/Owners.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1524028350831" expanded="true" signature="2406:3161" ph="UPDATE owners... " />
+            <marker date="1524028350831" expanded="true" signature="3230:3354" ph="SELECT FROM owners" />
+            <marker date="1524028350831" expanded="true" signature="3461:3588" ph="SELECT FROM owners" />
+            <marker date="1524028350831" expanded="true" signature="3702:3768" ph="SELECT FROM owners" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+        <state relative-caret-position="1387">
+          <caret line="73" column="42" lean-forward="false" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-common/src/main/java/ronjony/com/common/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/controller/OwnersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/CustomersServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/dao/OwnersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-petclinic-customers-service/src/main/java/ronjony/com/config/CustomerDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#1094#1120#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-design-cn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="385" column="0" lean-forward="true" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-design-en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="212">
+            <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-design-text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="262">
+            <caret line="162" column="3" lean-forward="false" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>

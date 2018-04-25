@@ -12,6 +12,7 @@ release.properties
 *.iws
 .idea/
 out/
+kafka/
 
 # gitignore
 .gitignore
